@@ -1,4 +1,29 @@
-wiki
-====
+PHP Tool Integration (PTI)
+==========================
 
-Just an empty project to provide a wiki for us ;)
+Documentation
+-------------
+
+-   [License]
+-   [Installation]
+
+Update Sites
+------------
+
+-   Stable: http://www.phpsrc.org/eclipse/pti/
+-   Development: http://www.phpsrc.org/eclipse/pti-dev/
+
+Contact
+-------
+
+-   Mail: pti@phpsrc.org
+-   Twitter: http://twitter.com/svenkiera
+
+External Project Sites
+----------------------
+
+-   [PHP Tool Integration on Eclipse Marketplace][]
+
+  [License]: ://github.com/PHPsrc/PHP-Tool-Integration/wiki/License
+  [Installation]: ://github.com/PHPsrc/PHP-Tool-Integration/wiki/Installation
+  [PHP Tool Integration on Eclipse Marketplace]: http://marketplace.eclipse.org/content/pti-php-tool-integration
