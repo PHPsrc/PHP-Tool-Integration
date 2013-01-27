@@ -24,6 +24,6 @@ External Project Sites
 
 -   [PHP Tool Integration on Eclipse Marketplace][]
 
-  [License]: ://github.com/PHPsrc/PHP-Tool-Integration/wiki/License
-  [Installation]: ://github.com/PHPsrc/PHP-Tool-Integration/wiki/Installation
+  [License]: https://github.com/PHPsrc/PHP-Tool-Integration/wiki/License
+  [Installation]: /PHPsrc/PHP-Tool-Integration/wiki/Installation
   [PHP Tool Integration on Eclipse Marketplace]: http://marketplace.eclipse.org/content/pti-php-tool-integration
