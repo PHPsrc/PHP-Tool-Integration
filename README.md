@@ -15,7 +15,7 @@ Update Sites
 
 Source Code
 -----------
-The source code for PHP Tool Integration is hosted on github.com on [several repositories of this organisation].
+The source code for PHP Tool Integration is hosted on github.com on [various repositories of this organisation].
 
 Contact
 -------
@@ -28,7 +28,7 @@ External Project Sites
 
 -   [PHP Tool Integration on Eclipse Marketplace][]
 
-  [License]: /PHPsrc/PHP-Tool-Integration/wiki/License
-  [Installation]: /PHPsrc/PHP-Tool-Integration/wiki/Installation
-  [several repositories of this organisation]: /PHPsrc
+  [License]: https://github.com/PHPsrc/PHP-Tool-Integration/wiki/License
+  [Installation]: https://github.com/PHPsrc/PHP-Tool-Integration/wiki/Installation
+  [various repositories of this organisation]: https://github.com/PHPsrc
   [PHP Tool Integration on Eclipse Marketplace]: http://marketplace.eclipse.org/content/pti-php-tool-integration
