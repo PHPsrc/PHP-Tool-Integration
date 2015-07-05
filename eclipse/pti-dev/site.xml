@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.phpsrc.eclipse.pti.core_1.5.9.R20110214000000.jar" id="org.phpsrc.eclipse.pti.core" version="1.5.9.R20110214000000">
+      <category name="Core"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.tools.codesniffer_1.2.6.R20100912000000.jar" id="org.phpsrc.eclipse.pti.tools.codesniffer" version="1.2.6.R20100912000000">
+      <category name="Tools"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.tools.phpcpd_0.2.2.R20100414000000.jar" id="org.phpsrc.eclipse.pti.tools.phpcpd" version="0.2.2.R20100414000000">
+      <category name="Tools"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.library.pear_1.2.2.R20110627000000.jar" id="org.phpsrc.eclipse.pti.library.pear" version="1.2.2.R20110627000000">
+      <category name="Libraries"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.tools.phpdepend_0.3.3.R20110627000000.jar" id="org.phpsrc.eclipse.pti.tools.phpdepend" version="0.3.3.R20110627000000">
+      <category name="Tools"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.tools.phpunit_0.7.2.R201106270000000.jar" id="org.phpsrc.eclipse.pti.tools.phpunit" version="0.7.2.R201106270000000">
+      <category name="Tools"/>
+   </feature>
+   <feature url="features/org.phpsrc.eclipse.pti.tools.phpmd_0.1.0.R20110628000000.jar" id="org.phpsrc.eclipse.pti.tools.phpmd" version="0.1.0.R20110628000000">
+      <category name="Tools"/>
+   </feature>
+   <category-def name="Libraries" label="Libraries"/>
+   <category-def name="Tools" label="Tools"/>
+   <category-def name="Core" label="Core"/>
+</site>
